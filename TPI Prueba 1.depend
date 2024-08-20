@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1718837479 source:c:\users\utn\materias\primer cuatrimestre\programacion\practica\c++ tpi\tpi prueba 1\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
+1718823278 c:\users\utn\materias\primer cuatrimestre\programacion\practica\c++ tpi\tpi prueba 1\funciones.h
+
+1718848562 source:c:\users\utn\materias\primer cuatrimestre\programacion\practica\c++ tpi\tpi prueba 1\funciones.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
