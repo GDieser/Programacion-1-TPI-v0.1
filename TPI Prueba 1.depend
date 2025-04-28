@@ -17,3 +17,21 @@
 	"funciones.h"
 	<windows.h>
 
+1745851717 source:e:\escritoriowin\utn\materias\tercer cuatrimestre\programacion iii\intro web\proyectos-git-portfolio\progra 1\tpi p1 base\programacion-1-tpi-v0.1\funciones.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
+1745851717 e:\escritoriowin\utn\materias\tercer cuatrimestre\programacion iii\intro web\proyectos-git-portfolio\progra 1\tpi p1 base\programacion-1-tpi-v0.1\funciones.h
+
+1745851717 source:e:\escritoriowin\utn\materias\tercer cuatrimestre\programacion iii\intro web\proyectos-git-portfolio\progra 1\tpi p1 base\programacion-1-tpi-v0.1\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
